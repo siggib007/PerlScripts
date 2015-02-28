@@ -1,0 +1,10 @@
+Device Name: db2-49x-cps-1-04.ntwk.msn.net
+Current registry: 0x2101
+Next registry: 0x2102
+BootImage: flash bootflash:cat4000-i5k91s-mz.122-25.EWA7.bin
+
+Contents of flash:
+bootflash:cat4000-i9s-mz.122-25.EWA4.bin	12495228	Image	0x93B32579	Deleted
+bootflash:cat4000-i5k91s-mz.122-25.EWA2.bin	13016716	Image	0xC7ECB8E5	Valid
+bootflash:cat4000-i5k91s-mz.122-25.EWA7.bin	10354688	Unknown	0x2C54DBC2	InvalidCheckSum
+cat4000_flash:vlan.dat	1036	Unknown	0x0	Valid

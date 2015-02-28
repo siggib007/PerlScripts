@@ -1,0 +1,8 @@
+xx Only fetch DNS dump is > day old xx
+XX SNMPValidate -> Get com strings from DB XX
+Create detail script for devices
+Put pagination on inventory report
+Store filter criteria in session
+Statistics page
+Report page
+?? Fix job status page when using nmapdiscovery ?? Change Stopped criteria

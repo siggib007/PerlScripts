@@ -1,0 +1,48 @@
+   5    0018.7322.72bc    DYNAMIC     Gi3/0/42
+   5    0018.b9cd.c748    DYNAMIC     Gi3/0/42
+   5    001a.6d4a.1f10    DYNAMIC     Po2
+   5    0080.6473.0ef2    DYNAMIC     Po2
+
+1. Name	 dot1dTpFdbAddress .1.3.6.1.2.1.17.4.3.1.1
+snmputil walk device comstr@5 .1.3.6.1.2.1.17.4.3.1.1
+Variable = .17.4.3.1.1.0.24.115.34.114.188
+Value    = String <0x00><0x18><0x73><0x22><0x72><0xbc>
+
+Variable = .17.4.3.1.1.0.24.185.205.199.72
+Value    = String <0x00><0x18><0xb9><0xcd><0xc7><0x48>
+
+Variable = .17.4.3.1.1.0.26.109.74.31.16
+Value    = String <0x00><0x1a><0x6d><0x4a><0x1f><0x10>
+
+Variable = .17.4.3.1.1.0.128.100.115.14.242
+Value    = String <0x00><0x80><0x64><0x73><0x0e><0xf2>
+
+2. dot1dTpFdbPort .1.3.6.1.2.1.17.4.3.1.2
+snmputil walk device comstr@5 .1.3.6.1.2.1.17.4.3.1.2
+Variable = .17.4.3.1.2.0.24.115.34.114.188
+Value    = Integer32 146
+
+Variable = .17.4.3.1.2.0.24.185.205.199.72
+Value    = Integer32 146
+
+Variable = .17.4.3.1.2.0.26.109.74.31.16
+Value    = Integer32 624
+
+Variable = .17.4.3.1.2.0.128.100.115.14.242
+Value    = Integer32 624
+
+3. Name	 dot1dBasePortIfIndex .1.3.6.1.2.1.17.1.4.1.2
+snmputil walk device comstr .1.3.6.1.2.1.17.1.4.1.2
+Variable = .17.1.4.1.2.146
+Value    = Integer32 11142
+
+Variable = .17.1.4.1.2.624
+Value    = Integer32 5002
+
+4. ifname .1.3.6.1.2.1.31.1.1.1.1 or ifDescr .1.3.6.1.2.1.2.2.1.2
+snmputil walk device comstr .1.3.6.1.2.1.31.1.1.1.1
+Variable = .31.1.1.1.1.11142
+Value    = String Gi3/0/42
+
+Variable = .31.1.1.1.1.5002
+Value    = String Po2

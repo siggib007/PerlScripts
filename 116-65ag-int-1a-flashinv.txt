@@ -1,0 +1,218 @@
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.2.1
+Value    = Integer32 65536000
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.2.2
+Value    = Integer32 15990784
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.2.3
+Value    = Integer32 15990784
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.2.4
+Value    = Integer32 255827968
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.2.5
+Value    = Integer32 0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.2.6
+Value    = Integer32 512024576
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.3.1
+Value    = Integer32 65536000
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.3.2
+Value    = Integer32 15990784
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.3.3
+Value    = Integer32 15990784
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.3.4
+Value    = Integer32 255827968
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.3.5
+Value    = Integer32 0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.3.6
+Value    = Integer32 512024576
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.4.1
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.4.2
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.4.3
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.4.4
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.4.5
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.4.6
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.5.1
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.5.2
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.5.3
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.5.4
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.5.5
+Value    = Integer32 0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.5.6
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.6.1
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.6.2
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.6.3
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.6.4
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.6.5
+Value    = Integer32 0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.6.6
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.7.1
+Value    = String bootflash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.7.2
+Value    = String dfc#6-bootflash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.7.3
+Value    = String dfc#1-bootflash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.7.4
+Value    = String disk0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.7.5
+Value    = String disk1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.7.6
+Value    = String sup-bootdisk
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.8.1
+Value    = String Boot Flash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.8.2
+Value    = String dfc#6-bootflash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.8.3
+Value    = String dfc#1-bootflash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.8.4
+Value    = String Disk 0 Flash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.8.5
+Value    = String Disk 1 Flash
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.8.6
+Value    = String 
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.9.1
+Value    = String 
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.9.2
+Value    = String 
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.9.3
+Value    = String 
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.9.4
+Value    = String internal
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.9.5
+Value    = String internal
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.9.6
+Value    = String 
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.10.1
+Value    = ObjectID 1.3.6.1.4.1.9.3.6.11.1.1.12
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.10.2
+Value    = ObjectID 1.3.6.1.4.1.9.3.6.11.1.1.15
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.10.3
+Value    = ObjectID 1.3.6.1.4.1.9.3.6.11.1.1.10
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.10.4
+Value    = ObjectID 1.3.6.1.4.1.9.3.6.11.1.1.12
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.10.5
+Value    = ObjectID 1.3.6.1.4.1.9.3.6.11.1.1.12
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.10.6
+Value    = ObjectID 0.0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.11.1
+Value    = Integer32 3
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.11.2
+Value    = Integer32 3
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.11.3
+Value    = Integer32 3
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.11.4
+Value    = Integer32 3
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.11.5
+Value    = Integer32 3
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.11.6
+Value    = Integer32 3
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.12.1
+Value    = TimeTicks 5618
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.12.2
+Value    = TimeTicks 355
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.12.3
+Value    = TimeTicks 1572
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.12.4
+Value    = TimeTicks 6783
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.12.5
+Value    = TimeTicks 0
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.12.6
+Value    = TimeTicks 6640
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.13.1
+Value    = Integer32 2
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.13.2
+Value    = Integer32 2
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.13.3
+Value    = Integer32 2
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.13.4
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.13.5
+Value    = Integer32 1
+
+Variable = .iso.org.dod.internet.private.enterprises.9.9.10.1.1.2.1.13.6
+Value    = Integer32 2
+
+End of MIB subtree.
+

@@ -1,0 +1,130 @@
+001	ServerTech RR 01.01.01-1	10.41.184.217	ctipublic	HI-HONW1
+002	ServerTech RR 01.01.01-2	10.41.184.218	ctipublic	HI-HONW1
+003	ServerTech RR 01.01.02-1	10.41.184.219	ctipublic	HI-HONW1
+004	ServerTech RR 01.01.02-2	10.41.184.220	ctipublic	HI-HONW1
+005	ServerTech RR 01.01.03	10.41.184.221	ctipublic	HI-HONW1
+006	ServerTech RR 01.01.04	10.41.184.222	ctipublic	HI-HONW1
+007	ServerTech RR 01.01.05	10.41.184.223	ctipublic	HI-HONW1
+008	ServerTech RR 01.01.06	10.41.184.224	ctipublic	HI-HONW1
+009	ServerTech RR 01.01.07	10.41.184.225	ctipublic	HI-HONW1
+010	ServerTech RR 01.01.08	10.41.184.226	ctipublic	HI-HONW1
+011	ServerTech RR 01.02.01	10.41.184.227	ctipublic	HI-HONW1
+012	ServerTech RR 01.02.02	10.41.184.228	ctipublic	HI-HONW1
+013	ServerTech RR 01.02.03	10.41.184.229	ctipublic	HI-HONW1
+014	ServerTech RR 01.02.04	10.41.184.230	ctipublic	HI-HONW1
+015	ServerTech RR 01.02.06	10.41.184.231	ctipublic	HI-HONW1
+016	ServerTech RR 01.02.08	10.41.184.232	ctipublic	HI-HONW1
+017	ServerTech RR-aa.bb.cc	10.41.64.217	ctipublic	AZ-PHXW1
+018	ServerTech RR-aa.bb.cc	10.41.64.218	ctipublic	AZ-PHXW1
+019	ServerTech RR-aa.bb.cc	10.41.64.219	ctipublic	AZ-PHXW1
+020	ServerTech RR-aa.bb.cc	10.41.64.220	ctipublic	AZ-PHXW1
+021	ServerTech RR-aa.bb.cc	10.41.64.221	ctipublic	AZ-PHXW1
+022	ServerTech RR-aa.bb.cc	10.41.64.222	ctipublic	AZ-PHXW1
+023	ServerTech RR-aa.bb.cc	10.41.64.223	ctipublic	AZ-PHXW1
+024	ServerTech RR-aa.bb.cc	10.41.64.224	ctipublic	AZ-PHXW1
+025	ServerTech RR-aa.bb.cc	10.41.64.225	ctipublic	AZ-PHXW1
+026	ServerTech RR-aa.bb.cc	10.41.64.226	ctipublic	AZ-PHXW1
+027	ServerTech RR-aa.bb.cc	10.41.64.227	ctipublic	AZ-PHXW1
+028	ServerTech RR-aa.bb.cc	10.41.64.228	ctipublic	AZ-PHXW1
+029	ServerTech RR-aa.bb.cc	10.41.64.229	ctipublic	AZ-PHXW1
+030	ServerTech RR-aa.bb.cc	10.41.64.230	ctipublic	AZ-PHXW1
+031	ServerTech RR-aa.bb.cc	10.41.64.231	ctipublic	AZ-PHXW1
+032	ServerTech RR-aa.bb.cc	10.41.224.217	ctipublic	CA-SFOW1
+033	ServerTech RR-aa.bb.cc	10.41.224.218	ctipublic	CA-SFOW1
+034	ServerTech RR-aa.bb.cc	10.41.224.219	ctipublic	CA-SFOW1
+035	ServerTech RR-aa.bb.cc	10.41.224.220	ctipublic	CA-SFOW1
+036	ServerTech RR-aa.bb.cc	10.41.224.221	ctipublic	CA-SFOW1
+037	ServerTech RR-aa.bb.cc	10.41.224.222	ctipublic	CA-SFOW1
+038	ServerTech RR-aa.bb.cc	10.41.224.223	ctipublic	CA-SFOW1
+039	ServerTech RR-aa.bb.cc	10.41.224.224	ctipublic	CA-SFOW1
+040	ServerTech RR-aa.bb.cc	10.41.224.225	ctipublic	CA-SFOW1
+041	ServerTech RR-aa.bb.cc	10.41.224.226	ctipublic	CA-SFOW1
+042	ServerTech RR-aa.bb.cc	10.41.224.227	ctipublic	CA-SFOW1
+043	ServerTech RR-aa.bb.cc	10.41.224.228	ctipublic	CA-SFOW1
+044	ServerTech RR-aa.bb.cc	10.41.224.229	ctipublic	CA-SFOW1
+045	ServerTech RR-aa.bb.cc	10.41.224.230	ctipublic	CA-SFOW1
+046	ServerTech RR	10.41.152.217	ctipublic	CA-SFOW2
+047	ServerTech RR	10.41.152.218	ctipublic	CA-SFOW2
+048	ServerTech RR	10.41.152.219	ctipublic	CA-SFOW2
+049	ServerTech RR	10.41.152.220	ctipublic	CA-SFOW2
+050	ServerTech RR	10.41.152.221	ctipublic	CA-SFOW2
+051	ServerTech RR	10.41.152.222	ctipublic	CA-SFOW2
+052	ServerTech RR	10.41.152.223	ctipublic	CA-SFOW2
+053	ServerTech RR	10.41.152.224	ctipublic	CA-SFOW2
+054	ServerTech RR	10.41.152.225	ctipublic	CA-SFOW2
+055	ServerTech RR	10.41.152.226	ctipublic	CA-SFOW2
+056	ServerTech RR	10.41.152.227	ctipublic	CA-SFOW2
+057	ServerTech RR	10.41.152.228	ctipublic	CA-SFOW2
+058	ServerTech RR	10.41.152.229	ctipublic	CA-SFOW2
+059	ServerTech RR	10.41.152.230	ctipublic	CA-SFOW2
+060	ServerTech RR-aa.bb.cc	10.41.56.217	ctipublic	CO-DENW1
+061	ServerTech RR-aa.bb.cc	10.41.56.218	ctipublic	CO-DENW1
+062	ServerTech RR-aa.bb.cc	10.41.56.219	ctipublic	CO-DENW1
+063	ServerTech RR-aa.bb.cc	10.41.56.220	ctipublic	CO-DENW1
+064	ServerTech RR-aa.bb.cc	10.41.56.221	ctipublic	CO-DENW1
+065	ServerTech RR-aa.bb.cc	10.41.56.222	ctipublic	CO-DENW1
+066	ServerTech RR-aa.bb.cc	10.41.56.223	ctipublic	CO-DENW1
+067	ServerTech RR-aa.bb.cc	10.41.56.224	ctipublic	CO-DENW1
+068	ServerTech RR-aa.bb.cc	10.41.56.225	ctipublic	CO-DENW1
+069	ServerTech RR-aa.bb.cc	10.41.56.226	ctipublic	CO-DENW1
+070	ServerTech RR-aa.bb.cc	10.41.56.227	ctipublic	CO-DENW1
+071	ServerTech RR-aa.bb.cc	10.41.56.228	ctipublic	CO-DENW1
+072	ServerTech RR-aa.bb.cc	10.41.56.229	ctipublic	CO-DENW1
+073	ServerTech RR-aa.bb.cc	10.41.56.230	ctipublic	CO-DENW1
+074	ServerTech RR-aa.bb.cc	10.41.56.231	ctipublic	CO-DENW1
+075	ServerTech RR070101-1	10.41.192.217	ctipublic	DC-WSHW1
+076	ServerTech RR070102-1	10.41.192.218	ctipublic	DC-WSHW1
+077	ServerTech RR070103-1	10.41.192.219	ctipublic	DC-WSHW1
+078	ServerTech RR070104-1	10.41.192.220	ctipublic	DC-WSHW1
+079	ServerTech RR070105-1	10.41.192.221	ctipublic	DC-WSHW1
+080	ServerTech RR070106-1	10.41.192.222	ctipublic	DC-WSHW1
+081	ServerTech RR070107-1	10.41.192.223	ctipublic	DC-WSHW1
+082	ServerTech RR070109-1	10.41.192.224	ctipublic	DC-WSHW1
+083	ServerTech RR070111-1	10.41.192.225	ctipublic	DC-WSHW1
+084	ServerTech RR070112-1	10.41.192.226	ctipublic	DC-WSHW1
+085	ServerTech RR070101-2	10.41.192.227	ctipublic	DC-WSHW1
+086	ServerTech RR070102-2	10.41.192.228	ctipublic	DC-WSHW1
+087	ServerTech RR	10.41.192.229	ctipublic	DC-WSHW1
+088	ServerTech RR	10.41.192.230	ctipublic	DC-WSHW1
+089	ServerTech RR020101-1	10.41.144.217	ctipublic	IL-CHIW1
+090	ServerTech RR020101-2	10.41.144.218	ctipublic	IL-CHIW1
+091	ServerTech RR020102-1	10.41.144.219	ctipublic	IL-CHIW1
+092	ServerTech RR020102-2	10.41.144.220	ctipublic	IL-CHIW1
+093	ServerTech RR020103-1	10.41.144.221	ctipublic	IL-CHIW1
+094	ServerTech RR020103-2	10.41.144.222	ctipublic	IL-CHIW1
+095	ServerTech RR020104	10.41.144.223	ctipublic	IL-CHIW1
+096	ServerTech RR020105	10.41.144.224	ctipublic	IL-CHIW1
+097	ServerTech RR020106	10.41.144.225	ctipublic	IL-CHIW1
+098	ServerTech RR020107	10.41.144.226	ctipublic	IL-CHIW1
+099	ServerTech RR020108	10.41.144.227	ctipublic	IL-CHIW1
+100	ServerTech RR020202	10.41.144.228	ctipublic	IL-CHIW1
+101	ServerTech RR020204	10.41.144.229	ctipublic	IL-CHIW1
+102	ServerTech RR040401-1	10.41.240.217	ctipublic	PA-PHLW1
+103	ServerTech RR040402-1	10.41.240.218	ctipublic	PA-PHLW1
+104	ServerTech RR040403-1	10.41.240.219	ctipublic	PA-PHLW1
+105	ServerTech RR040404-1	10.41.240.220	ctipublic	PA-PHLW1
+106	ServerTech RR040405-1	10.41.240.221	ctipublic	PA-PHLW1
+107	ServerTech RR040406-1	10.41.240.222	ctipublic	PA-PHLW1
+108	ServerTech RR-aa.bb.cc	10.41.240.223	ctipublic	PA-PHLW1
+109	ServerTech RR-aa.bb.cc	10.41.240.224	ctipublic	PA-PHLW1
+110	ServerTech RR040409-1	10.41.240.225	ctipublic	PA-PHLW1
+111	ServerTech RR040411-1	10.41.240.226	ctipublic	PA-PHLW1
+112	ServerTech RR040501-1	10.41.240.227	ctipublic	PA-PHLW1
+113	ServerTech RR040502-1	10.41.240.228	ctipublic	PA-PHLW1
+114	ServerTech RR040401-2	10.41.240.229	ctipublic	PA-PHLW1
+115	ServerTech RR040402-2	10.41.240.230	ctipublic	PA-PHLW1
+116	ServerTech RR040403-2	10.41.240.231	ctipublic	PA-PHLW1
+117	ServerTech RR020102	10.41.232.217	ctipublic	TX-DALW1
+118	ServerTech RR020104	10.41.232.218	ctipublic	TX-DALW1
+119	ServerTech RR020206	10.41.232.219	ctipublic	TX-DALW1
+120	ServerTech RR020303	10.41.232.220	ctipublic	TX-DALW1
+121	ServerTech RR020304	10.41.232.221	ctipublic	TX-DALW1
+122	ServerTech RR020401	10.41.232.222	ctipublic	TX-DALW1
+123	ServerTech RR020402	10.41.232.223	ctipublic	TX-DALW1
+124	ServerTech RR020403	10.41.232.224	ctipublic	TX-DALW1
+125	ServerTech RR020404	10.41.232.225	ctipublic	TX-DALW1
+126	ServerTech RR020405-1	10.41.232.226	ctipublic	TX-DALW1
+127	ServerTech RR020405-2	10.41.232.227	ctipublic	TX-DALW1
+128	ServerTech RR020406-1	10.41.232.228	ctipublic	TX-DALW1
+129	ServerTech RR020406-2	10.41.232.229	ctipublic	TX-DALW1
+130	ServerTech	10.41.232.230	ctipublic	TX-DALW1

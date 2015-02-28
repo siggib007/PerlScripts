@@ -1,0 +1,27 @@
+initializing....
+Started processing at 6/12/2009 14:29
+Attempting to open Connection to database on SEAVVAS001W02
+attempting to execute query to retrieve device list
+blank device name, switching to IP
+1: 172.16.47.49  ID:1  Model:1
+Successfully updated Database with reach attempt.
+IP Addr: 172.16.47.49
+DNS Name: seahaasap3-3.alaskaair.com
+172.16.47.49 is online
+TelnetTestOutput:seahaasap3-3
+Updating database
+Successfully updated Database.
+blank device name, switching to IP
+2: 172.16.47.30  ID:2  Model:1
+Successfully updated Database with reach attempt.
+IP Addr: 172.16.47.30
+DNS Name: seahaasap1-1.alaskaair.com
+172.16.47.30 is online
+TelnetTestOutput:seahaasap1-1
+Updating database
+Successfully updated Database.
+blank device name, switching to IP
+3: 172.16.47.39  ID:3  Model:1
+Successfully updated Database with reach attempt.
+IP Addr: 172.16.47.39
+DNS Name: seahaasap1-9.alaskaair.com

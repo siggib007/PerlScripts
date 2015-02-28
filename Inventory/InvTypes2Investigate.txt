@@ -1,0 +1,6 @@
+Siteboss ASE S570  -- Have MIBs
+DIGI MODEM
+NOR 3120 -- Done
+CET 8212 -- No SNMP
+LS 3600  -- Doesn't support inventory
+VALERE

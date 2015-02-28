@@ -1,0 +1,37 @@
+IP	DNS_Name	Type	Make	Ping	SSH	HTTPS	HTTP	Telnet	sysDescr	sysName	
+10.41.160.1	WA-WAN0999-FND-12GCF-V3008.clwr	FND 12GCF	Foundry	Success	Fail	Fail	Success	Fail	Foundry Networks, Inc. FES12GCF-PREM, IronWare Version 03.7.00bTc3 Compiled on Jul 12 2007 at 17:33:09 labeled as FER03700b	WA-WAN0999-FND-12GCF-1	
+10.41.160.3	WA-WAN0999-JUN-MX960-1.clwr	JUN MX960		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.2".	WA-WAN0999-JUN-MX960-1	
+10.41.160.4	WA-WAN0999-JUN-MX960-2.clwr	JUN MX960	Juniper	Success	Success	Fail	Fail	Fail	Juniper Networks, Inc. mx960 internet router, kernel JUNOS 9.5R3.7 #0: 2009-10-28 16:48:40 UTC     builder@ianath.juniper.net:/volume/build/junos/9.5/release/9.5R3.7/obj-i386/bsd/sys/compile/JUNIPER Build date: 2009-10-28 16:36:17 UTC Copyright (c) 1996-	WA-WAN0999-JUN-MX960-2	
+10.41.160.5	WA-WAN0999-HPB-MNGMNT-DNS.clwr	HPB MNGMNT		Success	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.5".	WA-WAN0999-JUN-MX960-2	
+10.41.160.6	WA-WAN0999-HPB-DHCP-1.clwr	HPB DHCP		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.5".	WA-WAN0999-INTEL-DHCP-1	
+10.41.160.7	WA-WAN0999-HPB-DHCP-2.clwr	HPB DHCP	Linux	Success	Success	Fail	Fail	Fail	Linux WA-WAN0999-HPB-DHCP-2 2.6.18-53.1.14.el5 #1 SMP Wed Mar 5 11:37:38 EST 2008 x86_64	WA-WAN0999-INTEL-DHCP-2	
+10.41.160.8	WA-WAN0999-HPB-DHCP-3.clwr	HPB DHCP	Linux	Success	Success	Fail	Fail	Fail	Linux WA-WAN0999-HPB-DHCP-3 2.6.18-53.1.14.el5 #1 SMP Wed Mar 5 11:37:38 EST 2008 x86_64	WA-WAN0999-INTEL-DHCP-1	
+10.41.160.9	WA-WAN0999-HPB-DHCP-4.clwr	HPB DHCP	Linux	Success	Success	Fail	Fail	Fail	Linux WA-WAN0999-HPB-DHCP-4 2.6.18-53.1.14.el5 #1 SMP Wed Mar 5 11:37:38 EST 2008 x86_64	WA-WAN0999-INTEL-DHCP-1	
+10.41.160.10	WA-WAN0999-FND-BIRX8-1.clwr	FND BIRX8	Foundry	Success	Success	Fail	Success	Fail	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d	WA-WAN0999-FND-BIRX8-1	
+10.41.160.11	WA-WAN0999-FND-BIRX8-2.clwr	FND BIRX8	Foundry	Success	Success	Fail	Success	Fail	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d	WA-WAN0999-FND-BIRX8-2	
+10.41.160.13	WA-WAN0999-JUN-MX960-1-RE1.clwr	JUN MX960		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.12".	sysName ERROR: No response from remote host "10.41.160.13".	
+10.41.160.14	WA-WAN0999-JUN-MX960-2-RE1.clwr	JUN MX960		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.12".	sysName ERROR: No response from remote host "10.41.160.13".	
+10.41.160.15	WA-WAN0999-HPB-MNGMNT-LDAP.clwr	HPB MNGMNT		Success	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.15".	sysName ERROR: No response from remote host "10.41.160.13".	
+10.41.160.16	WA-WAN0999-HPB-MNGMNT-RADIUS.clwr	HPB MNGMNT		Success	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.15".	sysName ERROR: No response from remote host "10.41.160.16".	
+10.41.160.18	WA-WAN0999-CYC-ACS32-RR090110.clwr	CYC ACS32	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.2.0 (Jan/04/08)	WA-WAN0999-CYC-ACS32-RR090110	
+10.41.160.19	WA-WAN0999-CYC-ACS32-RR090208.clwr	CYC ACS32	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.2.0 (Jan/04/08)	WA-WAN0999-CYC-ACS32-RR090208	
+10.41.160.20	WA-WAN0999-CYC-ACS32-RR030304.clwr	CYC ACS32	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.2.0 (Jan/04/08)	WA-WAN0999-CYC-ACS32-RR030304	
+10.41.160.21	WA-WAN0999-CYC-ACS32-RR030404.clwr	CYC ACS32	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.2.0 (Jan/04/08)	WA-WAN0999-CYC-ACS32-RR030404	
+10.41.160.22	WA-WAN0999-LS3600-1.clwr	LS3600 1.clwr		Success	Fail	Fail	Success	Success	sysDescr ERROR: No response from remote host "10.41.160.22".	WA-WAN0999-CYC-ACS32-RR030404	
+10.41.160.23	WA-WAN0999-LS3600-2.clwr	LS3600 2.clwr		Success	Fail	Fail	Success	Success	sysDescr ERROR: No response from remote host "10.41.160.22".	sysName ERROR: No response from remote host "10.41.160.23".	
+10.41.160.24	WA-WAN0999-HPB-MNGMNT-NTP.clwr	HPB MNGMNT		Success	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.22".	sysName ERROR: No response from remote host "10.41.160.23".	
+10.41.160.25	WA-WAN0999-FND-SI-4G-NAT-AAASDE.clwr	FND SI	Foundry	Success	Fail	Fail	Success	Fail	Foundry Networks, Inc. Router, IronWare Version 10.0.00cTI4 Compiled on Oct 28 2007 at 00:28:44 labeled as WJR10000c	WA-WAN999-FND-SI-4G-5	
+10.41.160.27	WA-WAN0999-INTEL-WWP-DMS-VIP.clwr	INTEL WWP		Success	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.26".	sysName ERROR: No response from remote host "10.41.160.27".	
+10.41.160.28	WA-WAN0999-INTEL-WWP-ESM-FE-VIP.clwr	INTEL WWP		Success	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.26".	sysName ERROR: No response from remote host "10.41.160.27".	
+10.41.160.29	WA-WAN0999-FND-SI-4G-VIP-AAA.clwr	FND SI		Fail	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.29".	sysName ERROR: No response from remote host "10.41.160.27".	
+10.41.160.30	WA-WAN0999-FND-SI-4G.clwr	FND SI		Fail	Fail	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.160.29".	sysName ERROR: No response from remote host "10.41.160.30".	
+10.41.248.120	NC-CLTW1-HPB-LW-1.clwr	HPB LW		Success	Success	Fail	Fail	Success	sysDescr ERROR: No response from remote host "10.41.160.29".	sysName ERROR: No response from remote host "10.41.160.30".	
+10.41.248.121	NC-CLTW1-HPB-LW-2.clwr	HPB LW	Linux	Success	Success	Fail	Fail	Fail	Linux NC-CLTW1-LW-2 2.6.18-128.el5 #1 SMP Wed Jan 21 10:41:14 EST 2009 x86_64	NC-CLTW1-HPB-LW-2	
+10.41.248.129	NC-CLTW1-HPB-TF-VIRT.clwr	HPB TF		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.248.128".	sysName ERROR: No response from remote host "10.41.248.129".	
+10.41.248.130	NC-CLTW1-HPB-SYSLOG-VIRT.clwr	HPB SYSLOG		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.248.128".	sysName ERROR: No response from remote host "10.41.248.129".	
+10.41.232.67	TX-DALW1-FND-SI-4G-1.clwr	FND SI		Success	Fail	Fail	Success	Fail	sysDescr ERROR: No response from remote host "10.41.232.65".	sysName ERROR: No response from remote host "10.41.232.66".	
+10.41.232.68	TX-DALW1-FND-SI-4G-2.clwr	FND SI	Foundry	Success	Fail	Fail	Success	Fail	Foundry Networks, Inc. Router, IronWare Version 10.2.01bTI4 Compiled on Jul 01 2008 at 22:16:32 labeled as WJR10201b	TX-DALW1-FND-SI-4G-2	
+10.41.232.77	TX-DALW1-SDV-PTS-1.clwr	SDV PTS		Success	Success	Fail	Fail	Fail	sysDescr ERROR: No response from remote host "10.41.232.75".	sysName ERROR: No response from remote host "10.41.232.76".	
+10.41.232.78	TX-DALW1-SDV-PTS-2.clwr	SDV PTS	Sandvine	Success	Success	Fail	Fail	Fail	Sandvine PTS14521	TX-DALW1-SDV-PTS-2.clearwire-wmx.net	
+10.41.232.79	TX-DALW1-SDV-PTS-3.clwr	SDV PTS	Sandvine	Success	Success	Fail	Fail	Fail	Sandvine PTS14521	TX-DAL2-SDV-PTS-3.clearwire-wmx.net	
+10.41.232.80	TX-DALW1-SDV-PTS-4.clwr	SDV PTS	Sandvine	Success	Success	Fail	Fail	Fail	Sandvine PTS14521	TX-DAL2-SDV-PTS-4.clearwire-wmx.net	

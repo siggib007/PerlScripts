@@ -1,0 +1,3 @@
+IP	DNS_Name	SysName	Type	Make	Ping	Telnet	SSH	Port80	Port443	SysDescr
+10.41.160.10	WA-WAN0999-FND-BIRX8-1.clwr	WA-WAN0999-FND-BIRX8-1	FND BIRX8	Foundry	Success	Success	Fail	Fail	Success	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d
+10.41.160.11	WA-WAN0999-FND-BIRX8-2.clwr	WA-WAN0999-FND-BIRX8-2	FND BIRX8	Foundry	Success	Success	Fail	Fail	Success	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d

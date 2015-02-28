@@ -1,0 +1,684 @@
+pm create service WMX-CW_IL-CHI9980-2 pm-instance WMX-CW_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI9980-2_BCPM
+pm create service WMX-RM_IL-CHI9980-2 pm-instance WMX-RM_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI9980-2_BCPM
+pm create service WMX-SP_IL-CHI9980-2 pm-instance WMX-SP_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI9980-2_BCPM
+pm create service DATA-V13_IL-CHI9980-2 pm-instance DATA-V13_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI9980-2_BCPM
+pm create service DATA-V14_IL-CHI9980-2 pm-instance DATA-V14_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI9980-2_BCPM
+pm create service DATA-V15_IL-CHI9980-2 pm-instance DATA-V15_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI9980-2_BCPM
+pm create service DATA-V16_IL-CHI9980-2 pm-instance DATA-V16_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI9980-2_BCPM
+pm create service DATA-V17_IL-CHI9980-2 pm-instance DATA-V17_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI9980-2_BCPM
+pm create service DATA-V18_IL-CHI9980-2 pm-instance DATA-V18_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI9980-2_BCPM
+pm create service DATA-V19_IL-CHI9980-2 pm-instance DATA-V19_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI9980-2_BCPM
+pm create service PCAPC_IL-CHI9980-2 pm-instance PCAPC_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI9980-2_BCPM
+pm create service DEF-MGMT_IL-CHI9980-2 pm-instance DEF-MGMT_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_IL-CHI9980-2_BCPM
+pm create service MGMT_IL-CHI9980-2 pm-instance MGMT_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI9980-2_BCPM
+pm create service MGMT-3300_IL-CHI9980-2 pm-instance MGMT-3300_IL-CHI9980-2_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT-3300_IL-CHI9980-2_BCPM
+pm create service MGMT_IL-CHI9980-3 pm-instance MGMT_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI9980-3_BCPM
+pm create service WMX-CW_IL-CHI9980-3 pm-instance WMX-CW_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI9980-3_BCPM
+pm create service WMX-RM_IL-CHI9980-3 pm-instance WMX-RM_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI9980-3_BCPM
+pm create service WMX-SP_IL-CHI9980-3 pm-instance WMX-SP_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI9980-3_BCPM
+pm create service DATA-V13_IL-CHI9980-3 pm-instance DATA-V13_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI9980-3_BCPM
+pm create service DATA-V14_IL-CHI9980-3 pm-instance DATA-V14_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI9980-3_BCPM
+pm create service DATA-V15_IL-CHI9980-3 pm-instance DATA-V15_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI9980-3_BCPM
+pm create service DATA-V16_IL-CHI9980-3 pm-instance DATA-V16_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI9980-3_BCPM
+pm create service DATA-V17_IL-CHI9980-3 pm-instance DATA-V17_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI9980-3_BCPM
+pm create service DATA-V18_IL-CHI9980-3 pm-instance DATA-V18_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI9980-3_BCPM
+pm create service DATA-V19_IL-CHI9980-3 pm-instance DATA-V19_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI9980-3_BCPM
+pm create service PCAPC_IL-CHI9980-3 pm-instance PCAPC_IL-CHI9980-3_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI9980-3_BCPM
+pm create service MGMT_IL-CHI0371-1 pm-instance MGMT_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0371-1_BCPM
+pm create service WMX-CW_IL-CHI0371-1 pm-instance WMX-CW_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0371-1_BCPM
+pm create service WMX-RM_IL-CHI0371-1 pm-instance WMX-RM_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0371-1_BCPM
+pm create service WMX-SP_IL-CHI0371-1 pm-instance WMX-SP_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0371-1_BCPM
+pm create service DATA-V13_IL-CHI0371-1 pm-instance DATA-V13_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0371-1_BCPM
+pm create service DATA-V14_IL-CHI0371-1 pm-instance DATA-V14_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0371-1_BCPM
+pm create service DATA-V15_IL-CHI0371-1 pm-instance DATA-V15_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0371-1_BCPM
+pm create service DATA-V16_IL-CHI0371-1 pm-instance DATA-V16_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0371-1_BCPM
+pm create service DATA-V17_IL-CHI0371-1 pm-instance DATA-V17_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0371-1_BCPM
+pm create service DATA-V18_IL-CHI0371-1 pm-instance DATA-V18_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0371-1_BCPM
+pm create service DATA-V19_IL-CHI0371-1 pm-instance DATA-V19_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0371-1_BCPM
+pm create service PCAPC_IL-CHI0371-1 pm-instance PCAPC_IL-CHI0371-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0371-1_BCPM
+pm create service MGMT_IL-CHI0485-1 pm-instance MGMT_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0485-1_BCPM
+pm create service WMX-CW_IL-CHI0485-1 pm-instance WMX-CW_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0485-1_BCPM
+pm create service WMX-RM_IL-CHI0485-1 pm-instance WMX-RM_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0485-1_BCPM
+pm create service WMX-SP_IL-CHI0485-1 pm-instance WMX-SP_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0485-1_BCPM
+pm create service DATA-V13_IL-CHI0485-1 pm-instance DATA-V13_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0485-1_BCPM
+pm create service DATA-V14_IL-CHI0485-1 pm-instance DATA-V14_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0485-1_BCPM
+pm create service DATA-V15_IL-CHI0485-1 pm-instance DATA-V15_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0485-1_BCPM
+pm create service DATA-V16_IL-CHI0485-1 pm-instance DATA-V16_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0485-1_BCPM
+pm create service DATA-V17_IL-CHI0485-1 pm-instance DATA-V17_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0485-1_BCPM
+pm create service DATA-V18_IL-CHI0485-1 pm-instance DATA-V18_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0485-1_BCPM
+pm create service DATA-V19_IL-CHI0485-1 pm-instance DATA-V19_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0485-1_BCPM
+pm create service PCAPC_IL-CHI0485-1 pm-instance PCAPC_IL-CHI0485-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0485-1_BCPM
+pm create service MGMT_IL-CHI0466-1 pm-instance MGMT_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0466-1_BCPM
+pm create service WMX-CW_IL-CHI0466-1 pm-instance WMX-CW_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0466-1_BCPM
+pm create service WMX-RM_IL-CHI0466-1 pm-instance WMX-RM_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0466-1_BCPM
+pm create service WMX-SP_IL-CHI0466-1 pm-instance WMX-SP_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0466-1_BCPM
+pm create service DATA-V13_IL-CHI0466-1 pm-instance DATA-V13_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0466-1_BCPM
+pm create service DATA-V14_IL-CHI0466-1 pm-instance DATA-V14_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0466-1_BCPM
+pm create service DATA-V15_IL-CHI0466-1 pm-instance DATA-V15_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0466-1_BCPM
+pm create service DATA-V16_IL-CHI0466-1 pm-instance DATA-V16_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0466-1_BCPM
+pm create service DATA-V17_IL-CHI0466-1 pm-instance DATA-V17_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0466-1_BCPM
+pm create service DATA-V18_IL-CHI0466-1 pm-instance DATA-V18_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0466-1_BCPM
+pm create service DATA-V19_IL-CHI0466-1 pm-instance DATA-V19_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0466-1_BCPM
+pm create service PCAPC_IL-CHI0466-1 pm-instance PCAPC_IL-CHI0466-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0466-1_BCPM
+pm create service MGMT_IL-CHI0963-1 pm-instance MGMT_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0963-1_BCPM
+pm create service WMX-CW_IL-CHI0963-1 pm-instance WMX-CW_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0963-1_BCPM
+pm create service WMX-RM_IL-CHI0963-1 pm-instance WMX-RM_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0963-1_BCPM
+pm create service WMX-SP_IL-CHI0963-1 pm-instance WMX-SP_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0963-1_BCPM
+pm create service DATA-V13_IL-CHI0963-1 pm-instance DATA-V13_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0963-1_BCPM
+pm create service DATA-V14_IL-CHI0963-1 pm-instance DATA-V14_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0963-1_BCPM
+pm create service DATA-V15_IL-CHI0963-1 pm-instance DATA-V15_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0963-1_BCPM
+pm create service DATA-V16_IL-CHI0963-1 pm-instance DATA-V16_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0963-1_BCPM
+pm create service DATA-V17_IL-CHI0963-1 pm-instance DATA-V17_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0963-1_BCPM
+pm create service DATA-V18_IL-CHI0963-1 pm-instance DATA-V18_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0963-1_BCPM
+pm create service DATA-V19_IL-CHI0963-1 pm-instance DATA-V19_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0963-1_BCPM
+pm create service PCAPC_IL-CHI0963-1 pm-instance PCAPC_IL-CHI0963-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0963-1_BCPM
+pm create service MGMT_IL-CHI0503-1 pm-instance MGMT_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0503-1_BCPM
+pm create service WMX-CW_IL-CHI0503-1 pm-instance WMX-CW_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0503-1_BCPM
+pm create service WMX-RM_IL-CHI0503-1 pm-instance WMX-RM_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0503-1_BCPM
+pm create service WMX-SP_IL-CHI0503-1 pm-instance WMX-SP_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0503-1_BCPM
+pm create service DATA-V13_IL-CHI0503-1 pm-instance DATA-V13_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0503-1_BCPM
+pm create service DATA-V14_IL-CHI0503-1 pm-instance DATA-V14_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0503-1_BCPM
+pm create service DATA-V15_IL-CHI0503-1 pm-instance DATA-V15_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0503-1_BCPM
+pm create service DATA-V16_IL-CHI0503-1 pm-instance DATA-V16_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0503-1_BCPM
+pm create service DATA-V17_IL-CHI0503-1 pm-instance DATA-V17_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0503-1_BCPM
+pm create service DATA-V18_IL-CHI0503-1 pm-instance DATA-V18_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0503-1_BCPM
+pm create service DATA-V19_IL-CHI0503-1 pm-instance DATA-V19_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0503-1_BCPM
+pm create service PCAPC_IL-CHI0503-1 pm-instance PCAPC_IL-CHI0503-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0503-1_BCPM
+pm create service MGMT_IL-CHI0961-1 pm-instance MGMT_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0961-1_BCPM
+pm create service WMX-CW_IL-CHI0961-1 pm-instance WMX-CW_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0961-1_BCPM
+pm create service WMX-RM_IL-CHI0961-1 pm-instance WMX-RM_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0961-1_BCPM
+pm create service WMX-SP_IL-CHI0961-1 pm-instance WMX-SP_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0961-1_BCPM
+pm create service DATA-V13_IL-CHI0961-1 pm-instance DATA-V13_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0961-1_BCPM
+pm create service DATA-V14_IL-CHI0961-1 pm-instance DATA-V14_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0961-1_BCPM
+pm create service DATA-V15_IL-CHI0961-1 pm-instance DATA-V15_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0961-1_BCPM
+pm create service DATA-V16_IL-CHI0961-1 pm-instance DATA-V16_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0961-1_BCPM
+pm create service DATA-V17_IL-CHI0961-1 pm-instance DATA-V17_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0961-1_BCPM
+pm create service DATA-V18_IL-CHI0961-1 pm-instance DATA-V18_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0961-1_BCPM
+pm create service DATA-V19_IL-CHI0961-1 pm-instance DATA-V19_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0961-1_BCPM
+pm create service PCAPC_IL-CHI0961-1 pm-instance PCAPC_IL-CHI0961-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0961-1_BCPM
+pm create service MGMT_IL-CHI0435-1 pm-instance MGMT_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0435-1_BCPM
+pm create service WMX-CW_IL-CHI0435-1 pm-instance WMX-CW_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0435-1_BCPM
+pm create service WMX-RM_IL-CHI0435-1 pm-instance WMX-RM_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0435-1_BCPM
+pm create service WMX-SP_IL-CHI0435-1 pm-instance WMX-SP_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0435-1_BCPM
+pm create service DATA-V13_IL-CHI0435-1 pm-instance DATA-V13_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0435-1_BCPM
+pm create service DATA-V14_IL-CHI0435-1 pm-instance DATA-V14_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0435-1_BCPM
+pm create service DATA-V15_IL-CHI0435-1 pm-instance DATA-V15_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0435-1_BCPM
+pm create service DATA-V16_IL-CHI0435-1 pm-instance DATA-V16_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0435-1_BCPM
+pm create service DATA-V17_IL-CHI0435-1 pm-instance DATA-V17_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0435-1_BCPM
+pm create service DATA-V18_IL-CHI0435-1 pm-instance DATA-V18_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0435-1_BCPM
+pm create service DATA-V19_IL-CHI0435-1 pm-instance DATA-V19_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0435-1_BCPM
+pm create service PCAPC_IL-CHI0435-1 pm-instance PCAPC_IL-CHI0435-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0435-1_BCPM
+pm create service MGMT_IL-CHI0474-1 pm-instance MGMT_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0474-1_BCPM
+pm create service WMX-CW_IL-CHI0474-1 pm-instance WMX-CW_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0474-1_BCPM
+pm create service WMX-RM_IL-CHI0474-1 pm-instance WMX-RM_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0474-1_BCPM
+pm create service WMX-SP_IL-CHI0474-1 pm-instance WMX-SP_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0474-1_BCPM
+pm create service DATA-V13_IL-CHI0474-1 pm-instance DATA-V13_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0474-1_BCPM
+pm create service DATA-V14_IL-CHI0474-1 pm-instance DATA-V14_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0474-1_BCPM
+pm create service DATA-V15_IL-CHI0474-1 pm-instance DATA-V15_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0474-1_BCPM
+pm create service DATA-V16_IL-CHI0474-1 pm-instance DATA-V16_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0474-1_BCPM
+pm create service DATA-V17_IL-CHI0474-1 pm-instance DATA-V17_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0474-1_BCPM
+pm create service DATA-V18_IL-CHI0474-1 pm-instance DATA-V18_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0474-1_BCPM
+pm create service DATA-V19_IL-CHI0474-1 pm-instance DATA-V19_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0474-1_BCPM
+pm create service PCAPC_IL-CHI0474-1 pm-instance PCAPC_IL-CHI0474-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0474-1_BCPM
+pm create service MGMT_IL-CHI0476-1 pm-instance MGMT_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0476-1_BCPM
+pm create service WMX-CW_IL-CHI0476-1 pm-instance WMX-CW_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0476-1_BCPM
+pm create service WMX-RM_IL-CHI0476-1 pm-instance WMX-RM_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0476-1_BCPM
+pm create service WMX-SP_IL-CHI0476-1 pm-instance WMX-SP_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0476-1_BCPM
+pm create service DATA-V13_IL-CHI0476-1 pm-instance DATA-V13_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0476-1_BCPM
+pm create service DATA-V14_IL-CHI0476-1 pm-instance DATA-V14_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0476-1_BCPM
+pm create service DATA-V15_IL-CHI0476-1 pm-instance DATA-V15_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0476-1_BCPM
+pm create service DATA-V16_IL-CHI0476-1 pm-instance DATA-V16_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0476-1_BCPM
+pm create service DATA-V17_IL-CHI0476-1 pm-instance DATA-V17_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0476-1_BCPM
+pm create service DATA-V18_IL-CHI0476-1 pm-instance DATA-V18_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0476-1_BCPM
+pm create service DATA-V19_IL-CHI0476-1 pm-instance DATA-V19_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0476-1_BCPM
+pm create service PCAPC_IL-CHI0476-1 pm-instance PCAPC_IL-CHI0476-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0476-1_BCPM
+pm create service MGMT_IL-CHI0500-1 pm-instance MGMT_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0500-1_BCPM
+pm create service WMX-CW_IL-CHI0500-1 pm-instance WMX-CW_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0500-1_BCPM
+pm create service WMX-RM_IL-CHI0500-1 pm-instance WMX-RM_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0500-1_BCPM
+pm create service WMX-SP_IL-CHI0500-1 pm-instance WMX-SP_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0500-1_BCPM
+pm create service DATA-V13_IL-CHI0500-1 pm-instance DATA-V13_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0500-1_BCPM
+pm create service DATA-V14_IL-CHI0500-1 pm-instance DATA-V14_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0500-1_BCPM
+pm create service DATA-V15_IL-CHI0500-1 pm-instance DATA-V15_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0500-1_BCPM
+pm create service DATA-V16_IL-CHI0500-1 pm-instance DATA-V16_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0500-1_BCPM
+pm create service DATA-V17_IL-CHI0500-1 pm-instance DATA-V17_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0500-1_BCPM
+pm create service DATA-V18_IL-CHI0500-1 pm-instance DATA-V18_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0500-1_BCPM
+pm create service DATA-V19_IL-CHI0500-1 pm-instance DATA-V19_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0500-1_BCPM
+pm create service PCAPC_IL-CHI0500-1 pm-instance PCAPC_IL-CHI0500-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0500-1_BCPM
+pm create service MGMT_IL-CHI0971-1 pm-instance MGMT_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0971-1_BCPM
+pm create service WMX-CW_IL-CHI0971-1 pm-instance WMX-CW_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0971-1_BCPM
+pm create service WMX-RM_IL-CHI0971-1 pm-instance WMX-RM_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0971-1_BCPM
+pm create service WMX-SP_IL-CHI0971-1 pm-instance WMX-SP_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0971-1_BCPM
+pm create service DATA-V13_IL-CHI0971-1 pm-instance DATA-V13_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0971-1_BCPM
+pm create service DATA-V14_IL-CHI0971-1 pm-instance DATA-V14_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0971-1_BCPM
+pm create service DATA-V15_IL-CHI0971-1 pm-instance DATA-V15_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0971-1_BCPM
+pm create service DATA-V16_IL-CHI0971-1 pm-instance DATA-V16_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0971-1_BCPM
+pm create service DATA-V17_IL-CHI0971-1 pm-instance DATA-V17_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0971-1_BCPM
+pm create service DATA-V18_IL-CHI0971-1 pm-instance DATA-V18_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0971-1_BCPM
+pm create service DATA-V19_IL-CHI0971-1 pm-instance DATA-V19_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0971-1_BCPM
+pm create service PCAPC_IL-CHI0971-1 pm-instance PCAPC_IL-CHI0971-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0971-1_BCPM
+pm create service MGMT_IL-CHI0304-1 pm-instance MGMT_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0304-1_BCPM
+pm create service WMX-CW_IL-CHI0304-1 pm-instance WMX-CW_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0304-1_BCPM
+pm create service WMX-RM_IL-CHI0304-1 pm-instance WMX-RM_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0304-1_BCPM
+pm create service WMX-SP_IL-CHI0304-1 pm-instance WMX-SP_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0304-1_BCPM
+pm create service DATA-V13_IL-CHI0304-1 pm-instance DATA-V13_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0304-1_BCPM
+pm create service DATA-V14_IL-CHI0304-1 pm-instance DATA-V14_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0304-1_BCPM
+pm create service DATA-V15_IL-CHI0304-1 pm-instance DATA-V15_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0304-1_BCPM
+pm create service DATA-V16_IL-CHI0304-1 pm-instance DATA-V16_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0304-1_BCPM
+pm create service DATA-V17_IL-CHI0304-1 pm-instance DATA-V17_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0304-1_BCPM
+pm create service DATA-V18_IL-CHI0304-1 pm-instance DATA-V18_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0304-1_BCPM
+pm create service DATA-V19_IL-CHI0304-1 pm-instance DATA-V19_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0304-1_BCPM
+pm create service PCAPC_IL-CHI0304-1 pm-instance PCAPC_IL-CHI0304-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0304-1_BCPM
+pm create service MGMT_IL-CHI0104-1 pm-instance MGMT_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0104-1_BCPM
+pm create service WMX-CW_IL-CHI0104-1 pm-instance WMX-CW_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0104-1_BCPM
+pm create service WMX-RM_IL-CHI0104-1 pm-instance WMX-RM_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0104-1_BCPM
+pm create service WMX-SP_IL-CHI0104-1 pm-instance WMX-SP_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0104-1_BCPM
+pm create service DATA-V13_IL-CHI0104-1 pm-instance DATA-V13_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0104-1_BCPM
+pm create service DATA-V14_IL-CHI0104-1 pm-instance DATA-V14_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0104-1_BCPM
+pm create service DATA-V15_IL-CHI0104-1 pm-instance DATA-V15_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0104-1_BCPM
+pm create service DATA-V16_IL-CHI0104-1 pm-instance DATA-V16_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0104-1_BCPM
+pm create service DATA-V17_IL-CHI0104-1 pm-instance DATA-V17_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0104-1_BCPM
+pm create service DATA-V18_IL-CHI0104-1 pm-instance DATA-V18_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0104-1_BCPM
+pm create service DATA-V19_IL-CHI0104-1 pm-instance DATA-V19_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0104-1_BCPM
+pm create service PCAPC_IL-CHI0104-1 pm-instance PCAPC_IL-CHI0104-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0104-1_BCPM
+pm create service MGMT_IL-CHI0470-1 pm-instance MGMT_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0470-1_BCPM
+pm create service WMX-CW_IL-CHI0470-1 pm-instance WMX-CW_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0470-1_BCPM
+pm create service WMX-RM_IL-CHI0470-1 pm-instance WMX-RM_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0470-1_BCPM
+pm create service WMX-SP_IL-CHI0470-1 pm-instance WMX-SP_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0470-1_BCPM
+pm create service DATA-V13_IL-CHI0470-1 pm-instance DATA-V13_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0470-1_BCPM
+pm create service DATA-V14_IL-CHI0470-1 pm-instance DATA-V14_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0470-1_BCPM
+pm create service DATA-V15_IL-CHI0470-1 pm-instance DATA-V15_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0470-1_BCPM
+pm create service DATA-V16_IL-CHI0470-1 pm-instance DATA-V16_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0470-1_BCPM
+pm create service DATA-V17_IL-CHI0470-1 pm-instance DATA-V17_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0470-1_BCPM
+pm create service DATA-V18_IL-CHI0470-1 pm-instance DATA-V18_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0470-1_BCPM
+pm create service DATA-V19_IL-CHI0470-1 pm-instance DATA-V19_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0470-1_BCPM
+pm create service PCAPC_IL-CHI0470-1 pm-instance PCAPC_IL-CHI0470-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0470-1_BCPM
+pm create service MGMT_IL-CHI0338-1 pm-instance MGMT_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0338-1_BCPM
+pm create service WMX-CW_IL-CHI0338-1 pm-instance WMX-CW_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0338-1_BCPM
+pm create service WMX-RM_IL-CHI0338-1 pm-instance WMX-RM_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0338-1_BCPM
+pm create service WMX-SP_IL-CHI0338-1 pm-instance WMX-SP_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0338-1_BCPM
+pm create service DATA-V13_IL-CHI0338-1 pm-instance DATA-V13_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0338-1_BCPM
+pm create service DATA-V14_IL-CHI0338-1 pm-instance DATA-V14_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0338-1_BCPM
+pm create service DATA-V15_IL-CHI0338-1 pm-instance DATA-V15_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0338-1_BCPM
+pm create service DATA-V16_IL-CHI0338-1 pm-instance DATA-V16_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0338-1_BCPM
+pm create service DATA-V17_IL-CHI0338-1 pm-instance DATA-V17_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0338-1_BCPM
+pm create service DATA-V18_IL-CHI0338-1 pm-instance DATA-V18_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0338-1_BCPM
+pm create service DATA-V19_IL-CHI0338-1 pm-instance DATA-V19_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0338-1_BCPM
+pm create service PCAPC_IL-CHI0338-1 pm-instance PCAPC_IL-CHI0338-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0338-1_BCPM
+pm create service MGMT_IL-CHI0471-1 pm-instance MGMT_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0471-1_BCPM
+pm create service WMX-CW_IL-CHI0471-1 pm-instance WMX-CW_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0471-1_BCPM
+pm create service WMX-RM_IL-CHI0471-1 pm-instance WMX-RM_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0471-1_BCPM
+pm create service WMX-SP_IL-CHI0471-1 pm-instance WMX-SP_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0471-1_BCPM
+pm create service DATA-V13_IL-CHI0471-1 pm-instance DATA-V13_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0471-1_BCPM
+pm create service DATA-V14_IL-CHI0471-1 pm-instance DATA-V14_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0471-1_BCPM
+pm create service DATA-V15_IL-CHI0471-1 pm-instance DATA-V15_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0471-1_BCPM
+pm create service DATA-V16_IL-CHI0471-1 pm-instance DATA-V16_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0471-1_BCPM
+pm create service DATA-V17_IL-CHI0471-1 pm-instance DATA-V17_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0471-1_BCPM
+pm create service DATA-V18_IL-CHI0471-1 pm-instance DATA-V18_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0471-1_BCPM
+pm create service DATA-V19_IL-CHI0471-1 pm-instance DATA-V19_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0471-1_BCPM
+pm create service PCAPC_IL-CHI0471-1 pm-instance PCAPC_IL-CHI0471-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0471-1_BCPM
+pm create service MGMT_IL-CHI0469-1 pm-instance MGMT_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0469-1_BCPM
+pm create service WMX-CW_IL-CHI0469-1 pm-instance WMX-CW_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0469-1_BCPM
+pm create service WMX-RM_IL-CHI0469-1 pm-instance WMX-RM_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0469-1_BCPM
+pm create service WMX-SP_IL-CHI0469-1 pm-instance WMX-SP_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0469-1_BCPM
+pm create service DATA-V13_IL-CHI0469-1 pm-instance DATA-V13_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0469-1_BCPM
+pm create service DATA-V14_IL-CHI0469-1 pm-instance DATA-V14_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0469-1_BCPM
+pm create service DATA-V15_IL-CHI0469-1 pm-instance DATA-V15_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0469-1_BCPM
+pm create service DATA-V16_IL-CHI0469-1 pm-instance DATA-V16_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0469-1_BCPM
+pm create service DATA-V17_IL-CHI0469-1 pm-instance DATA-V17_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0469-1_BCPM
+pm create service DATA-V18_IL-CHI0469-1 pm-instance DATA-V18_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0469-1_BCPM
+pm create service DATA-V19_IL-CHI0469-1 pm-instance DATA-V19_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0469-1_BCPM
+pm create service PCAPC_IL-CHI0469-1 pm-instance PCAPC_IL-CHI0469-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0469-1_BCPM
+pm create service MGMT_IL-CHI0501-1 pm-instance MGMT_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0501-1_BCPM
+pm create service WMX-CW_IL-CHI0501-1 pm-instance WMX-CW_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0501-1_BCPM
+pm create service WMX-RM_IL-CHI0501-1 pm-instance WMX-RM_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0501-1_BCPM
+pm create service WMX-SP_IL-CHI0501-1 pm-instance WMX-SP_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0501-1_BCPM
+pm create service DATA-V13_IL-CHI0501-1 pm-instance DATA-V13_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0501-1_BCPM
+pm create service DATA-V14_IL-CHI0501-1 pm-instance DATA-V14_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0501-1_BCPM
+pm create service DATA-V15_IL-CHI0501-1 pm-instance DATA-V15_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0501-1_BCPM
+pm create service DATA-V16_IL-CHI0501-1 pm-instance DATA-V16_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0501-1_BCPM
+pm create service DATA-V17_IL-CHI0501-1 pm-instance DATA-V17_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0501-1_BCPM
+pm create service DATA-V18_IL-CHI0501-1 pm-instance DATA-V18_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0501-1_BCPM
+pm create service DATA-V19_IL-CHI0501-1 pm-instance DATA-V19_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0501-1_BCPM
+pm create service PCAPC_IL-CHI0501-1 pm-instance PCAPC_IL-CHI0501-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0501-1_BCPM
+pm create service MGMT_IL-CHI0289-1 pm-instance MGMT_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0289-1_BCPM
+pm create service WMX-CW_IL-CHI0289-1 pm-instance WMX-CW_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0289-1_BCPM
+pm create service WMX-RM_IL-CHI0289-1 pm-instance WMX-RM_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0289-1_BCPM
+pm create service WMX-SP_IL-CHI0289-1 pm-instance WMX-SP_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0289-1_BCPM
+pm create service DATA-V13_IL-CHI0289-1 pm-instance DATA-V13_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0289-1_BCPM
+pm create service DATA-V14_IL-CHI0289-1 pm-instance DATA-V14_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0289-1_BCPM
+pm create service DATA-V15_IL-CHI0289-1 pm-instance DATA-V15_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0289-1_BCPM
+pm create service DATA-V16_IL-CHI0289-1 pm-instance DATA-V16_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0289-1_BCPM
+pm create service DATA-V17_IL-CHI0289-1 pm-instance DATA-V17_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0289-1_BCPM
+pm create service DATA-V18_IL-CHI0289-1 pm-instance DATA-V18_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0289-1_BCPM
+pm create service DATA-V19_IL-CHI0289-1 pm-instance DATA-V19_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0289-1_BCPM
+pm create service PCAPC_IL-CHI0289-1 pm-instance PCAPC_IL-CHI0289-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0289-1_BCPM
+pm create service MGMT_IL-CHI0393-1 pm-instance MGMT_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0393-1_BCPM
+pm create service WMX-CW_IL-CHI0393-1 pm-instance WMX-CW_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0393-1_BCPM
+pm create service WMX-RM_IL-CHI0393-1 pm-instance WMX-RM_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0393-1_BCPM
+pm create service WMX-SP_IL-CHI0393-1 pm-instance WMX-SP_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0393-1_BCPM
+pm create service DATA-V13_IL-CHI0393-1 pm-instance DATA-V13_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0393-1_BCPM
+pm create service DATA-V14_IL-CHI0393-1 pm-instance DATA-V14_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0393-1_BCPM
+pm create service DATA-V15_IL-CHI0393-1 pm-instance DATA-V15_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0393-1_BCPM
+pm create service DATA-V16_IL-CHI0393-1 pm-instance DATA-V16_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0393-1_BCPM
+pm create service DATA-V17_IL-CHI0393-1 pm-instance DATA-V17_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0393-1_BCPM
+pm create service DATA-V18_IL-CHI0393-1 pm-instance DATA-V18_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0393-1_BCPM
+pm create service DATA-V19_IL-CHI0393-1 pm-instance DATA-V19_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0393-1_BCPM
+pm create service PCAPC_IL-CHI0393-1 pm-instance PCAPC_IL-CHI0393-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0393-1_BCPM
+pm create service MGMT_IL-CHI0453-1 pm-instance MGMT_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0453-1_BCPM
+pm create service WMX-CW_IL-CHI0453-1 pm-instance WMX-CW_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0453-1_BCPM
+pm create service WMX-RM_IL-CHI0453-1 pm-instance WMX-RM_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0453-1_BCPM
+pm create service WMX-SP_IL-CHI0453-1 pm-instance WMX-SP_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0453-1_BCPM
+pm create service DATA-V13_IL-CHI0453-1 pm-instance DATA-V13_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0453-1_BCPM
+pm create service DATA-V14_IL-CHI0453-1 pm-instance DATA-V14_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0453-1_BCPM
+pm create service DATA-V15_IL-CHI0453-1 pm-instance DATA-V15_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0453-1_BCPM
+pm create service DATA-V16_IL-CHI0453-1 pm-instance DATA-V16_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0453-1_BCPM
+pm create service DATA-V17_IL-CHI0453-1 pm-instance DATA-V17_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0453-1_BCPM
+pm create service DATA-V18_IL-CHI0453-1 pm-instance DATA-V18_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0453-1_BCPM
+pm create service DATA-V19_IL-CHI0453-1 pm-instance DATA-V19_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0453-1_BCPM
+pm create service PCAPC_IL-CHI0453-1 pm-instance PCAPC_IL-CHI0453-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0453-1_BCPM
+pm create service MGMT_IL-CHI0468-1 pm-instance MGMT_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0468-1_BCPM
+pm create service WMX-CW_IL-CHI0468-1 pm-instance WMX-CW_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0468-1_BCPM
+pm create service WMX-RM_IL-CHI0468-1 pm-instance WMX-RM_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0468-1_BCPM
+pm create service WMX-SP_IL-CHI0468-1 pm-instance WMX-SP_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0468-1_BCPM
+pm create service DATA-V13_IL-CHI0468-1 pm-instance DATA-V13_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0468-1_BCPM
+pm create service DATA-V14_IL-CHI0468-1 pm-instance DATA-V14_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0468-1_BCPM
+pm create service DATA-V15_IL-CHI0468-1 pm-instance DATA-V15_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0468-1_BCPM
+pm create service DATA-V16_IL-CHI0468-1 pm-instance DATA-V16_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0468-1_BCPM
+pm create service DATA-V17_IL-CHI0468-1 pm-instance DATA-V17_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0468-1_BCPM
+pm create service DATA-V18_IL-CHI0468-1 pm-instance DATA-V18_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0468-1_BCPM
+pm create service DATA-V19_IL-CHI0468-1 pm-instance DATA-V19_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0468-1_BCPM
+pm create service PCAPC_IL-CHI0468-1 pm-instance PCAPC_IL-CHI0468-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0468-1_BCPM
+pm create service MGMT_IL-CHI0009-1 pm-instance MGMT_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_IL-CHI0009-1_BCPM
+pm create service WMX-CW_IL-CHI0009-1 pm-instance WMX-CW_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-CW_IL-CHI0009-1_BCPM
+pm create service WMX-RM_IL-CHI0009-1 pm-instance WMX-RM_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-RM_IL-CHI0009-1_BCPM
+pm create service WMX-SP_IL-CHI0009-1 pm-instance WMX-SP_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance WMX-SP_IL-CHI0009-1_BCPM
+pm create service DATA-V13_IL-CHI0009-1 pm-instance DATA-V13_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V13_IL-CHI0009-1_BCPM
+pm create service DATA-V14_IL-CHI0009-1 pm-instance DATA-V14_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V14_IL-CHI0009-1_BCPM
+pm create service DATA-V15_IL-CHI0009-1 pm-instance DATA-V15_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V15_IL-CHI0009-1_BCPM
+pm create service DATA-V16_IL-CHI0009-1 pm-instance DATA-V16_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V16_IL-CHI0009-1_BCPM
+pm create service DATA-V17_IL-CHI0009-1 pm-instance DATA-V17_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V17_IL-CHI0009-1_BCPM
+pm create service DATA-V18_IL-CHI0009-1 pm-instance DATA-V18_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V18_IL-CHI0009-1_BCPM
+pm create service DATA-V19_IL-CHI0009-1 pm-instance DATA-V19_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance DATA-V19_IL-CHI0009-1_BCPM
+pm create service PCAPC_IL-CHI0009-1 pm-instance PCAPC_IL-CHI0009-1_BCPM profile-type Container bin-count 2
+pm enable pm-instance PCAPC_IL-CHI0009-1_BCPM
+pm create sub-port DEF-MGMT_7/5 pm-instance DEF-MGMT_7/5_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/5_BCPM
+pm create sub-port DEF-MGMT_7/6 pm-instance DEF-MGMT_7/6_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/6_BCPM
+pm create sub-port DEF-MGMT_7/7 pm-instance DEF-MGMT_7/7_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/7_BCPM
+pm create sub-port DEF-MGMT_7/8 pm-instance DEF-MGMT_7/8_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/8_BCPM
+pm create sub-port DEF-MGMT_7/9 pm-instance DEF-MGMT_7/9_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/9_BCPM
+pm create sub-port DEF-MGMT_7/10 pm-instance DEF-MGMT_7/10_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/10_BCPM
+pm create sub-port DEF-MGMT_7/11 pm-instance DEF-MGMT_7/11_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/11_BCPM
+pm create sub-port DEF-MGMT_7/12 pm-instance DEF-MGMT_7/12_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/12_BCPM
+pm create sub-port DEF-MGMT_7/13 pm-instance DEF-MGMT_7/13_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/13_BCPM
+pm create sub-port DEF-MGMT_7/14 pm-instance DEF-MGMT_7/14_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/14_BCPM
+pm create sub-port DEF-MGMT_7/15 pm-instance DEF-MGMT_7/15_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/15_BCPM
+pm create sub-port DEF-MGMT_7/16 pm-instance DEF-MGMT_7/16_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/16_BCPM
+pm create sub-port DEF-MGMT_7/17 pm-instance DEF-MGMT_7/17_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/17_BCPM
+pm create sub-port DEF-MGMT_7/18 pm-instance DEF-MGMT_7/18_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/18_BCPM
+pm create sub-port DEF-MGMT_7/19 pm-instance DEF-MGMT_7/19_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/19_BCPM
+pm create sub-port DEF-MGMT_7/20 pm-instance DEF-MGMT_7/20_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/20_BCPM
+pm create sub-port DEF-MGMT_7/21 pm-instance DEF-MGMT_7/21_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/21_BCPM
+pm create sub-port DEF-MGMT_7/22 pm-instance DEF-MGMT_7/22_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/22_BCPM
+pm create sub-port DEF-MGMT_7/23 pm-instance DEF-MGMT_7/23_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/23_BCPM
+pm create sub-port DEF-MGMT_7/24 pm-instance DEF-MGMT_7/24_BCPM profile-type Container bin-count 2
+pm enable pm-instance DEF-MGMT_7/24_BCPM
+pm create sub-port MGMT_7/5 pm-instance MGMT_7/5_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/5_BCPM
+pm create sub-port MGMT_7/6 pm-instance MGMT_7/6_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/6_BCPM
+pm create sub-port MGMT_7/7 pm-instance MGMT_7/7_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/7_BCPM
+pm create sub-port MGMT_7/8 pm-instance MGMT_7/8_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/8_BCPM
+pm create sub-port MGMT_7/9 pm-instance MGMT_7/9_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/9_BCPM
+pm create sub-port MGMT_7/10 pm-instance MGMT_7/10_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/10_BCPM
+pm create sub-port MGMT_7/11 pm-instance MGMT_7/11_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/11_BCPM
+pm create sub-port MGMT_7/12 pm-instance MGMT_7/12_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/12_BCPM
+pm create sub-port MGMT_7/13 pm-instance MGMT_7/13_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/13_BCPM
+pm create sub-port MGMT_7/14 pm-instance MGMT_7/14_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/14_BCPM
+pm create sub-port MGMT_7/15 pm-instance MGMT_7/15_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/15_BCPM
+pm create sub-port MGMT_7/16 pm-instance MGMT_7/16_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/16_BCPM
+pm create sub-port MGMT_7/17 pm-instance MGMT_7/17_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/17_BCPM
+pm create sub-port MGMT_7/18 pm-instance MGMT_7/18_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/18_BCPM
+pm create sub-port MGMT_7/19 pm-instance MGMT_7/19_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/19_BCPM
+pm create sub-port MGMT_7/20 pm-instance MGMT_7/20_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/20_BCPM
+pm create sub-port MGMT_7/21 pm-instance MGMT_7/21_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/21_BCPM
+pm create sub-port MGMT_7/22 pm-instance MGMT_7/22_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/22_BCPM
+pm create sub-port MGMT_7/23 pm-instance MGMT_7/23_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/23_BCPM
+pm create sub-port MGMT_7/24 pm-instance MGMT_7/24_BCPM profile-type Container bin-count 2
+pm enable pm-instance MGMT_7/24_BCPM

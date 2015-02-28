@@ -1,0 +1,27 @@
+IP	DNS_Name	SysName	Type	Make	Ping	Telnet	SSH	Port80	Port443	SysDescr
+10.41.160.10	WA-WAN0999-FND-BIRX8-1.clwr	WA-WAN0999-FND-BIRX8-1	FND BIRX8	Foundry	Success	Success	Fail	Fail	Success	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d
+10.41.160.11	WA-WAN0999-FND-BIRX8-2.clwr	WA-WAN0999-FND-BIRX8-2	FND BIRX8	Foundry	Success	Success	Fail	Fail	Success	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d
+10.41.160.13	WA-WAN0999-JUN-MX960-1-RE1.clwr	Sysname ERROR: No response from remote host "10.41.160.13".	JUN MX960		Success	Fail	Fail	Fail	Success	
+10.41.160.14	WA-WAN0999-JUN-MX960-2-RE1.clwr	Sysname ERROR: No response from remote host "10.41.160.14".	JUN MX960		Success	Fail	Fail	Fail	Success	
+10.41.160.15	WA-WAN0999-HPB-MNGMNT-LDAP.clwr	Sysname ERROR: No response from remote host "10.41.160.15".	HPB MNGMNT		Success	Fail	Fail	Fail	Fail	
+10.41.160.16	WA-WAN0999-HPB-MNGMNT-RADIUS.clwr	Sysname ERROR: No response from remote host "10.41.160.16".	HPB MNGMNT		Success	Fail	Fail	Fail	Fail	
+10.41.160.18	WA-WAN0999-CYC-ACS32-RR090110.clwr	WA-WAN0999-CYC-ACS32-RR090110	CYC ACS32	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.2.0 (Jan/04/08)
+10.41.160.19	WA-WAN0999-CYC-ACS32-RR090208.clwr	Sysname ERROR: No response from remote host "10.41.160.19".	CYC ACS32		Success	Success	Success	Success	Success	
+10.41.160.20	WA-WAN0999-CYC-ACS32-RR030304.clwr	Sysname ERROR: No response from remote host "10.41.160.20".	CYC ACS32		Success	Success	Success	Success	Success	
+10.41.168.10	GA-GAN0999-FND-BIRX8-1.clwr	GA-GAN0999-FND-BIRX8-1	FND BIRX8	Foundry	Success	Success	Fail	Fail	Fail	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d
+10.41.168.11	GA-GAN0999-FND-BIRX8-2.clwr	GA-GAN0999-FND-BIRX8-2	FND BIRX8	Foundry	Success	Success	Fail	Fail	Fail	Foundry Networks, Inc. BigIron RX, IronWare Version V2.4.0dT143 Compiled on Dec 05 2007 at 16:15:14 labeled as V2.4.00d
+10.41.168.13	GA-GAN0999-JUN-MX960-1.clwr	Sysname ERROR: No response from remote host "10.41.168.13".	JUN MX960		Success	Fail	Fail	Fail	Success	
+10.41.168.14	GA-GAN0999-JUN-MX960-2.clwr	Sysname ERROR: No response from remote host "10.41.168.14".	JUN MX960		Success	Fail	Fail	Fail	Success	
+10.41.168.15	GA-GAN0999-HPB-MNGMNT-LDAP.clwr	Sysname ERROR: No response from remote host "10.41.168.15".	HPB MNGMNT		Fail	Fail	Fail	Fail	Fail	
+10.41.168.16	Reverse DNS Failure	Sysname ERROR: No response from remote host "10.41.168.16".			Success	Fail	Fail	Fail	Fail	
+10.41.168.17	GA-GAN0999-CYC-ACS32-RR100208-1.clwr	Sysname ERROR: No response from remote host "10.41.168.17".	CYC ACS32		Success	Success	Success	Success	Success	
+10.41.168.18	GA-GAN0999-CYC-RR100211-1.clwr	GA-GAN0999-CYC-ACS32-RR100211	CYC RR100211	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.1.0 (Dec/21/06)
+10.41.168.19	GA-GAN0999-CYC-RR100211-2.clwr	GA-GAN0999-CYC2-RR0106Marietta	CYC RR100211	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.1.0 (Dec/21/06)
+10.41.168.20	GA-GAN0999-CYC-ACS32-RR0106.clwr	GA-GAN0999-CYC-ACS32-RR0106-Lambert	CYC ACS32	AlterPath	Success	Success	Success	Success	Success	AlterPath ACS32 - version: V_3.2.0 (Jan/04/08)
+10.41.248.10	Reverse DNS Failure	Sysname ERROR: No response from remote host "10.41.248.10".			Success	Fail	Fail	Fail	Success	
+10.41.248.11	Reverse DNS Failure	Sysname ERROR: No response from remote host "10.41.248.11".			Success	Fail	Fail	Fail	Success	
+10.41.248.12	NC-CLTW1-NET-FLO-1.clwr	Sysname ERROR: No response from remote host "10.41.248.12".	NET FLO		Fail	Fail	Fail	Fail	Fail	
+10.41.248.15	NC-CLTW1-HPB-MNGMNT-LDAP.clwr	Sysname ERROR: No response from remote host "10.41.248.15".	HPB MNGMNT		Fail	Fail	Fail	Fail	Fail	
+10.41.248.18	NC-CLTW1-CYC-ACS32-RR1.clwr	Sysname ERROR: No response from remote host "10.41.248.18".	CYC ACS32		Success	Success	Success	Success	Success	
+10.41.248.19	NC-CLTW1-CYC-ACS32-RR2.clwr	Sysname ERROR: No response from remote host "10.41.248.19".	CYC ACS32		Success	Success	Success	Success	Success	
+10.41.248.20	NC-CLTW1-CYC-ACS32-RR3.clwr	Sysname ERROR: No response from remote host "10.41.248.20".	CYC ACS32		Success	Success	Success	Success	Success	

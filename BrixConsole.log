@@ -1,0 +1,139 @@
+initializing....
+Attempting to open Connection to the SQL server by2netsql01
+opening up the destination table brix.dbo.devices
+got the recordset, starting processing...
+Found  on  
+Saving  2/7/2008 17:47 to database
+Attempting to login to blu-37t-4 port 2041
+Login to OOB complete
+attempting to log into console
+Found blu-b1kb-msc-1 on blu-37t-4 2041
+Saving blu-b1kb-msc-1 2/7/2008 17:47 to database
+Attempting to login to ASH-37T-1 port 2047
+Login to OOB complete
+attempting to log into console
+Found ash-b1kf-1 on ASH-37T-1 2047
+Saving ash-b1kf-1 2/7/2008 17:47 to database
+Attempting to login to BAY-37T-1 port 2072
+Login to OOB complete
+attempting to log into console
+Found bay-b1kb-1 on BAY-37T-1 2072
+Saving bay-b1kb-1 2/7/2008 17:47 to database
+Attempting to login to bay-37t-4 port 2085
+Login to OOB complete
+attempting to log into console
+Found bay-b1kf-1 on bay-37t-4 2085
+Saving bay-b1kf-1 2/7/2008 17:47 to database
+Attempting to login to BY2-37T-1 port 2128
+Login to OOB complete
+attempting to log into console
+Found by2-b1kf-1 on BY2-37T-1 2128
+Saving by2-b1kf-1 2/7/2008 17:47 to database
+Attempting to login to BY2-37T-1 port 2127
+Login to OOB complete
+attempting to log into console
+Found by2-b1kb-1 on BY2-37T-1 2127
+Saving by2-b1kb-1 2/7/2008 17:47 to database
+Attempting to login to BLU-37T-1 port 2034
+Login to OOB complete
+attempting to log into console
+Found blu-b1kb-1 on BLU-37T-1 2034
+Saving blu-b1kb-1 2/7/2008 17:47 to database
+Attempting to login to BLU-37T-1 port 2035
+Login to OOB complete
+attempting to log into console
+Found blu-b1kf-1 on BLU-37T-1 2035
+Saving blu-b1kf-1 2/7/2008 17:47 to database
+Attempting to login to CPK-37T-2 port 2071
+Login to OOB complete
+attempting to log into console
+Found cpk-b1kb-1 on CPK-37T-2 2071
+Saving cpk-b1kb-1 2/7/2008 17:47 to database
+Attempting to login to CPK-37T-2 port 2041
+Login to OOB complete
+attempting to log into console
+Found cpk-b1kf-1 on CPK-37T-2 2041
+Saving cpk-b1kf-1 2/7/2008 17:47 to database
+Attempting to login to dub-37t-1 port 2055
+Login to OOB complete
+attempting to log into console
+Found dub-b1kb-1 on dub-37t-1 2055
+Saving dub-b1kb-1 2/7/2008 17:47 to database
+Attempting to login to DUB-37T-1 port 2063
+Login to OOB complete
+attempting to log into console
+Found dub-b1kf-1 on DUB-37T-1 2063
+Saving dub-b1kf-1 2/7/2008 17:47 to database
+Attempting to login to KAW-37T-1 port 2078
+Login to OOB complete
+attempting to log into console
+Found kaw-b1kb-1 on KAW-37T-1 2078
+Saving kaw-b1kb-1 2/7/2008 17:47 to database
+Attempting to login to KAW-37T-1 port 2072
+Login to OOB complete
+attempting to log into console
+Found kaw-b1kf-1 on KAW-37T-1 2072
+Saving kaw-b1kf-1 2/7/2008 17:48 to database
+Attempting to login to DB2-37T-2 port 2059
+Login to OOB complete
+attempting to log into console
+Found db2-b1kb-1 on DB2-37T-2 2059
+Saving db2-b1kb-1 2/7/2008 17:48 to database
+Attempting to login to DB2-37T-2 port 2058
+Login to OOB complete
+attempting to log into console
+Found db2-b1kf-1 on DB2-37T-2 2058
+Saving db2-b1kf-1 2/7/2008 17:48 to database
+Attempting to login to pao-37t-1 port 2049
+Login to OOB complete
+attempting to log into console
+Found pao-b1kf-1 on pao-37t-1 2049
+Saving pao-b1kf-1 2/7/2008 17:48 to database
+Attempting to login to TUK-37T-5 port 2054
+Login to OOB complete
+attempting to log into console
+Found tuk-b1kf-2 on TUK-37T-5 2054
+Saving tuk-b1kf-2 2/7/2008 17:48 to database
+Attempting to login to sin-38t-1 port 2147
+errmsg: pattern match timed-out
+Found pattern match timed-out on sin-38t-1 2147
+Saving pattern match timed-out 2/7/2008 17:48 to database
+Attempting to login to sin-38t-1 port 2146
+errmsg: pattern match timed-out
+Found pattern match timed-out on sin-38t-1 2146
+Saving pattern match timed-out 2/7/2008 17:49 to database
+Attempting to login to sjc-37t-1 port 2048
+Login to OOB complete
+attempting to log into console
+Found sjc-b1kf-1 on sjc-37t-1 2048
+Saving sjc-b1kf-1 2/7/2008 17:49 to database
+Attempting to login to TUK-37T-3 port 2105
+Login to OOB complete
+attempting to log into console
+Found tuk-b1kb-2 on TUK-37T-3 2105
+Saving tuk-b1kb-2 2/7/2008 17:49 to database
+Attempting to login to TUK-37T-3 port 2103
+Login to OOB complete
+attempting to log into console
+Found tuk-b1kf-1 on TUK-37T-3 2103
+Saving tuk-b1kf-1 2/7/2008 17:49 to database
+Attempting to login to WAS-37T-1 port 2042
+Failed to open connection to WAS-37T-1 2042
+errmsg: unknown remote host: WAS-37T-1
+Found unknown remote host: WAS-37T-1 on WAS-37T-1 2042
+Saving unknown remote host: WAS-37T-1 2/7/2008 17:49 to database
+Attempting to login to WST-37t-2 port 2062
+Failed to open connection to WST-37t-2 2062
+errmsg: unknown remote host: WST-37t-2
+Found unknown remote host: WST-37t-2 on WST-37t-2 2062
+Saving unknown remote host: WST-37t-2 2/7/2008 17:49 to database
+Attempting to login to TUK-37T-3 port 2145
+Login to OOB complete
+Found the Brix server on TUK-37T-3 2145
+Found tuk-bcol-1 on TUK-37T-3 2145
+Saving tuk-bcol-1 2/7/2008 17:49 to database
+Attempting to login to 10.205.20.252 port 2037
+Login to OOB complete
+attempting to log into console
+Found sat-b1kb-1 on 10.205.20.252 2037
+Saving sat-b1kb-1 2/7/2008 17:49 to database

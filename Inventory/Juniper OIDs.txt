@@ -1,0 +1,13 @@
+$getOIDs{"BoxDescr"} = "1.3.6.1.4.1.2636.3.1.2.0";
+$getOIDs{"BoxSerialNo"} = "1.3.6.1.4.1.2636.3.1.3.0";
+
+$tableOIDs{"OperatingDRAMSize"} = "1.3.6.1.4.1.2636.3.1.13.1.10";
+$tableOIDs{"ContainersLevel"} = "1.3.6.1.4.1.2636.3.1.6.1.3";
+$tableOIDs{"ContainersWithin"} = "1.3.6.1.4.1.2636.3.1.6.1.4";
+$tableOIDs{"ContainersDescr"} = "1.3.6.1.4.1.2636.3.1.6.1.6";
+$tableOIDs{"ContainersCount"} = "1.3.6.1.4.1.2636.3.1.6.1.7";
+$tableOIDs{"ContentsPartNo"} = "1.3.6.1.4.1.2636.3.1.8.1.10";
+$tableOIDs{"ContentsDescr"} = "1.3.6.1.4.1.2636.3.1.8.1.6";
+$tableOIDs{"ContentsSerialNo"} = "1.3.6.1.4.1.2636.3.1.8.1.7";
+$tableOIDs{"ContentsRevision"} = "1.3.6.1.4.1.2636.3.1.8.1.8";
+$tableOIDs{"OperatingDRAMSize"} = "1.3.6.1.4.1.2636.3.1.13.1.10";
