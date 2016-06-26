@@ -1,7 +1,0 @@
-1/20/2011 11:56:07 starting discovery7.pl at 1/20/2011 11:56
-
-1/20/2011 11:56:07 WA-WAN-SMTP-1 172.27.0.125 responds on port 25, using as relay server
-
-
-1/20/2011 11:56:07 reading from database ... 
-1/20/2011 11:56:07 SELECT * FROM tblsubnets limit 2, 1

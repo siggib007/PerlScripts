@@ -1,9 +1,0 @@
-12/30/2010 17:00:10 initializing smtptest.pl ....
-12/30/2010 17:00:10 WA-WAN-SMTP-1 172.27.0.125 seems have port 25 open, using as relay server
-12/30/2010 17:00:11 Nachoman 172.25.200.100 seems have port 25 closed.
-12/30/2010 17:00:12 NOCTools 172.25.200.20 seems have port 25 closed.
-12/30/2010 17:00:13 WA-WAN-SMTP-2 172.27.0.126 seems have port 25 closed.
-12/30/2010 17:00:14 localhost 127.0.0.1 seems have port 25 closed.
-12/30/2010 17:00:14 composing test mail body ..... 
-12/30/2010 17:00:14 Now sending the test mail via 172.27.0.125 .... 
-12/30/2010 17:00:14 Done!!!
